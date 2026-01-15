@@ -84,3 +84,8 @@ http://localhost:3000
 👤 Author
 
 Abhishek Garg
+
+
+📄 License:-
+
+This project is licensed under the MIT License.
