@@ -89,3 +89,7 @@ Abhishek Garg
 📄 License:-
 
 This project is licensed under the MIT License.
+
+
+
+Note: You can open this application on multiple devices or in different browser tabs to experience real-time messaging properly.
